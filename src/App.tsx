@@ -88,7 +88,7 @@ function App() {
                 <Users className="w-5 h-5 text-white" />
               </div>
               <h1 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                SkillSwap
+                SwapSquad
               </h1>
             </div>
           </div>
@@ -157,6 +157,7 @@ function App() {
                   <Users className="w-8 h-8 text-white" />
                 </div>
                 <h2 className="text-3xl font-bold text-gray-900 mb-2">Welcome to SkillSwap</h2>
+                <h2 className="text-3xl font-bold text-gray-900 mb-2">Welcome to SwapSquad</h2>
                 <p className="text-gray-600">Connect with others and exchange skills to grow together</p>
               </div>
               <button
